@@ -1,6 +1,7 @@
 # test関数
 
 ## test_midi.pyについて
+MIDI fileの読み込みとwav fileへの変換方法のサンプル
 ### 実行方法
 ```
 python test_midi.py <midi file path>
